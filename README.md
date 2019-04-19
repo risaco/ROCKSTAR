@@ -1,2 +1,2 @@
-# convo-to-connect
-Slides for tech talk titled Networking Your Way to Your Next Job
+# ROCKSTAR
+Slides for tech talk titled From Bootcamp to Rockstar
