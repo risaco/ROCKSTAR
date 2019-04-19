@@ -1,7 +1,7 @@
 {
-  "name": "convo-to-connect",
+  "name": "ROCKSTAR",
   "version": "3.7.0",
-  "description": "Tech talk slides for Networking Your Way to Your Next Job",
+  "description": "Tech talk slides for From Bootcam to Rockstar",
   "main": "js/reveal.js",
   "scripts": {
     "test": "grunt test",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/risaco/convo-to-connect"
+    "url": "git://github.com/risaco/ROCKSTAR"
   },
   "engines": {
     "node": ">=4.0.0"
